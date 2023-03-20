@@ -81,3 +81,4 @@ namespace ConsoleApp16
 
 
 ## Result:
+C# program is done to find the eligibility for admission to an engineering course and has been successfully executed.
