@@ -110,7 +110,7 @@ namespace ConsoleApp16
 
 ## Output:
 
-
+![output](https://github.com/jhansi21005096/Eligibility-for-Admission/blob/main/c%23output.png)
 
 ## Result:
 C# program is done to find the eligibility for admission to an engineering course and has been successfully executed.
